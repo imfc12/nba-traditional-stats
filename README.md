@@ -19,3 +19,7 @@ The steps below guide you through the execution process.
 # Code Editor
 5. `analyse_ranking.ipynb`
     - Script (jupyter notebook) to create a simple line graph to visualise the SQL virtual table (view)
+
+
+## Database design
+- This project includes a MySQL Workbench model `nba_traditional_model.mwb ` which can be used to visualise or modify the database schema
