@@ -9,6 +9,8 @@ The steps below guide you through the execution process.
 # Code Editor
 2. `get_nba_data.ipynb`
     - This file (jupyter notebook) retrieves data from nba_api and loads into JSON files for further use. Traditional stats for teams and players
+    - NOTE: This process takes about 30 minutes to retrieve stats for each individual player
+    - The api call 'PlayerDashboardByGeneralSplits()' only searches one player at a time
 3. `load_to_db.ipynb`
     - This file (jupyter notebook) collects the data from JSON files and loads them into the database
 # SQL Database
