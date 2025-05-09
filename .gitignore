@@ -14,3 +14,6 @@ Files/nba_traditional.sql
 # Ignore testing files
 /Users/lorenzog/Developer/NBA/NBA Project/nba_pandas_TESTING.ipynb
 /Users/lorenzog/Developer/NBA/NBA Project/nba_TESTING.ipynb
+
+# Remove macOS system file
+.DS_Store
